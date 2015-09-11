@@ -15,3 +15,4 @@ void Mregistro(uint32_t *ptro,int n)
 		printf(" registro #%d  : %d \n",i+1,ptro[i]);
 	}
 }
+
