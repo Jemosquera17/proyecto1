@@ -18,3 +18,16 @@
 	<stdint.h>
 	"Operaciones.h"
 
+1441299851 source:c:\users\admin\proyecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"mregistros.h"
+	"Operaciones.h"
+
+1442016006 c:\users\admin\proyecto1\mregistros.h
+	<stdint.h>
+
+1442016002 c:\users\admin\proyecto1\operaciones.h
+	<stdint.h>
+
